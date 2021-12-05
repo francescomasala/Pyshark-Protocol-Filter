@@ -1,5 +1,5 @@
 # Pyshark-Protocol-Filter
-Basic library that performs filtering of the messages included in the protocol packet analyzed using PyShark
+Library that performs a filtering of the packets captured by pyshark and classifies them according to the protocol offering basic Setters and ToStrings
 ## Packets Supported
 ### Cisco
 [X] HSRP
